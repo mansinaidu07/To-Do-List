@@ -22,6 +22,6 @@ This project is a simple and responsive To-Do List web app built using HTML, CSS
 - Live Server extension for real-time preview  
 - Google Chrome browser for testing  
 
-#Screenshots
+#Screenshot
 
 ![To-Do List Web App](To-do_screenshot.png)
