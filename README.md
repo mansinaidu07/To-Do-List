@@ -18,4 +18,4 @@ This project is a simple and responsive To-Do List web app built using HTML, CSS
 
 #Screenshots
 
-![To-Do List Web App](Todo_app/todo_list.png)
+![To-Do List Web App](To-do_screenshot.png)
