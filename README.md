@@ -1,4 +1,5 @@
 #To-Do List Web App (Front-end Only)
+
 This project is a simple and responsive To-Do List web app built using HTML, CSS, and JavaScript (Vanilla).
 
 #Features
@@ -17,4 +18,4 @@ This project is a simple and responsive To-Do List web app built using HTML, CSS
 
 #Screenshots
 
-![To-Do List Web App](TOdo_app/todo_list.png)
+![To-Do List Web App](Todo_app/todo_list.png)
